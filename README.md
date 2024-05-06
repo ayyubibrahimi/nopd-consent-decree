@@ -1,4 +1,4 @@
-# NOPD Consent Decree Compliance Analysis 
+# Analysis of NOPD's classification scheme for misconduct data
 
 ## Project Overview
 
