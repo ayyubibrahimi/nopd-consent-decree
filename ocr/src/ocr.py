@@ -46,7 +46,7 @@ class DocClient:
                 for i in range(num_pages):
                     try:
                         image = pdf2image.convert_from_bytes(
-                            pdf_data, dpi=500, first_page=i + 1, last_page=i + 1
+                            pdf_data, dpi=800, first_page=i + 1, last_page=i + 1
                         )[0]
 
                         img_byte_arr = BytesIO()
